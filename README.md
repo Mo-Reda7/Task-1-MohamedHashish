@@ -1,4 +1,4 @@
-﻿# Task-1-MohamedHashish
+﻿# simple rule-based chatbot
 # AI Chat Bot
 
 ## Description
