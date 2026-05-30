@@ -32,4 +32,4 @@ python main.py
 
 ## Author
 
-Mohamed
+Mohamed Hashish
